@@ -1,3 +1,3 @@
 juliawong.github.io
 ===================
-My online portfolio
+My GitHub website
